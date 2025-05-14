@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/website"
+		},
+		{
+			"path": "../../python"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
+}
