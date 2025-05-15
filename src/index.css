@@ -4,8 +4,30 @@
   font-family:"poppins",sans-serif;
   box-sizing: border-box;
 }
+
+.basic{
+  text-align: center;
+  color: blue;
+  border:2px solid green;
+  max-width:fit-content;
+  button{
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left:30px;
+    border-radius: 50px;
+    
+  }
+  label{
+    margin-top: 20px;
+  }
+  span{
+    display:block ;
+  }
+  }
+
 /* counter */
-/* 
+
 .pink {
   border: 3px double red;
   text-align:center;
@@ -39,7 +61,7 @@
   }
   }
  
-} */
+}
 /* todolist */
  .doto{
   text-align: left;
@@ -78,9 +100,9 @@
     }
   }
  }
- /* hideshow */
- /* .show
- {
+  /* hideshow */
+  .show
+  {
   max-width: max-content;
   margin:20px;
   text-align: center;
@@ -90,10 +112,10 @@
   .hide{
     margin-top: 10px;
   }
- }
+ } 
  /* apifetch */
 
-  /* .api {
+  .api {
     max-width:fit-content;
       margin-bottom:10px;
       text-align: center;
@@ -109,4 +131,4 @@
     text-align: center;
     background-color: bisque;
     margin-top: 50px;
-  } */ 
+  } 
