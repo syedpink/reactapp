@@ -7,9 +7,12 @@ body {
 
   h1{
     color: black;
+    background-color:rgb(136, 161, 170);
+    text-align:center;
   }
   
   .App {
+    display: block;
     padding: 2rem;
     text-align: center;
     
@@ -19,13 +22,14 @@ body {
     display: flex;
     gap: 1rem;
     justify-content: center;
-    flex-wrap: wrap;
     margin-top: 2rem;
-    
+    flex-direction: row;
+    flex-wrap:wrap;
   
   }
   
   .card {
+    flex-basis: 20%;
     background: white;
     padding: 1rem;
     border-radius: 8px;

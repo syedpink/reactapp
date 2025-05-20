@@ -31,7 +31,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Stylish Backpack',
+    name: 'Backpack',
     price: 39.99,
     image: backpack
   },
@@ -54,13 +54,13 @@ const products = [
   },
   {
     id: 7,
-    name: 'Travel Bag',
+    name: 'Jute Comfy Travel Bag  Office Bag ',
     price: 99.99,
     image: travelbag
   },
   {
     id: 8,
-    name: 'Pant',
+    name: ' Straight Line Pant',
     price: 89.99,
     image: pant
   },
@@ -96,9 +96,6 @@ function App() {
     setCart([...cart, product]);
   };
   
-
-
-
   return (
     <div className="App">
       <h1>JAMILU.IN</h1>

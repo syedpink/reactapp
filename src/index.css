@@ -39,7 +39,7 @@
 
   h1{
     text-decoration:underline;
-    margin-left: 20px,0px,0px,20px;
+    /* margin: 20px,0px,0px,20px; */
   }
   label {
     display: block;

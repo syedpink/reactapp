@@ -2,7 +2,7 @@
   "name": "reactapplication",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://syedpink.github.io/reactapp",
+  "homepage": "https://syedpink.github.io/reactapp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
